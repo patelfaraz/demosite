@@ -91,8 +91,8 @@
 <body>
 
   <div class="card">
-    <div class="heart">❤️</div>
-    <h1>I'm Sorry</h1>
+    <div class="heart">🥺</div>
+    <h1>Beba, I'm Sorry</h1>
 
     <p>
       I know I hurt you, and I hate that I did.  
